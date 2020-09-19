@@ -6,7 +6,7 @@
 * telegram: [Mazay](https://t.me/maksmor)
 ## Summary
 All my life I have been searching for myself and I finally realized that I want to become a Frontend developer. And I'm ready to do my best to achieve my aim.
- ## Skills
+## Skills
 * HTML - basic
 * CSS - basic
 * JavaScript - beginner
