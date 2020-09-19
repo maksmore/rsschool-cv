@@ -13,7 +13,7 @@ All my life I have been searching for myself and I finally realized that I want 
 ## Education
 **Gomel State Technical University named after P. Sukhoi**  
 Economics and Humanities Faculty  
-2009 - 2013
+2009 - 2013  
 **IT-Academy Certificate**  
 Linux system administration  
 2019
