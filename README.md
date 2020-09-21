@@ -1,1 +1,1 @@
-https://maksmore.github.io/rsschool-cv/
+https://github.com/maksmore/rsschool-cv.git
