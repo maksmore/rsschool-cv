@@ -1,1 +1,1 @@
-https://maksmore.github.io/rsschool-cv/
+[My CV-Page](https://maksmore.github.io/rsschool-cv/)  
